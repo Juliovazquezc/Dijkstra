@@ -1,2 +1,2 @@
 # Dijkstra
-Programa que implementa el algoritmo Dijkstra con una pequeña interfaz gráfica.
+This application developed in Java, simulates Dijkstra's algorithm
